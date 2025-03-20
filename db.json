@@ -1,0 +1,6 @@
+{
+  "users": [{ "id": 1, "name": "Ali Khan", "email": "ali.khan@example.com", "age": 30 },
+  { "id": 2, "name": "Ayesha Malik", "email": "ayesha.malik@example.com", "age": 25 },
+  { "id": 3, "name": "Zeeshan Ahmed", "email": "zeeshan.ahmed@example.com", "age": 28 }
+]
+}
